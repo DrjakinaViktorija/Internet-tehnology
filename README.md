@@ -10,7 +10,7 @@
 
 [Ссылка на личный репозиторий](https://github.com/DrjakinaViktorija/Internet-tehnology)
 
-[Ссылка на личную страницу](https://zhelnovandrew.github.io/Laboratory_work-Zhelnov/)
+[Ссылка на личную страницу](https://drjakinaviktorija.github.io/Internet-tehnology/)
 ## ✅Лабораторная работа №2
 Разработка простого веб-приложения:
 
